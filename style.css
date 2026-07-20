@@ -1,0 +1,42 @@
+body{
+    background-image: url("https://www.bing.com/th/id/OIP.iyt2IbEeMnCoFN-7IIQxQAHaHS?w=193&h=190&c=8&rs=1&qlt=90&o=6&pid=ImgAns&rm=2");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+}.container{
+    width:100vw;
+    height:100vh;
+}.gambar{
+    display: block;
+    margin: auto;
+}button{
+    display: block;
+    margin: auto;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-style: handwriting;
+}h1{
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}p1{
+    
+    color: white;
+    font-size: 18px;
+    margin-top: 20px;
+    font-family: 'Poppins', sans-serif;
+}navbar {
+    background-color: lightblue;
+    overflow: hidden;
+    display: block;
+    justify-content: center;
+    align-items: center;
+}
