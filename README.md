@@ -1,2 +1,0 @@
-# heran
-taktau
